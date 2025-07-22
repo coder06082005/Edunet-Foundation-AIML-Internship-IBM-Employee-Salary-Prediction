@@ -1,7 +1,7 @@
 # 💼 Employee Salary Prediction using Machine Learning
 
 ### 🎓 AICTE + Edunet Foundation Internship Project  
-**Intern Name:** Mayur Zope 
+**Intern Name:** Mayur Zope                 
 **AICTE ID:** STU681ba784e31251746642820  
 **Project Duration:** 18th June 2025 – 30th July 2025
 
